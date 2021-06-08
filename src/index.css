@@ -1,0 +1,12 @@
+@import url(./fonts/fonts.css);
+
+body {
+  margin: 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p, h1, h2, h3 {
+  margin: 0;
+}

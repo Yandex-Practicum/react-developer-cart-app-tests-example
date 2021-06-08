@@ -1,0 +1,15 @@
+.input {
+  border: 1px solid rgba(41, 41, 41, 0.6);
+  box-sizing: border-box;
+  padding: 10px 16px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  max-height: 40px;
+  border-radius: 4px;
+}
+
+.input_withBtn {
+  border-radius: 4px 0px 0px 4px;
+}

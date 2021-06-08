@@ -1,0 +1,5 @@
+.tabs {
+  display: flex;
+  width: 100%;
+  box-shadow: inset 0px -1px 0px rgba(41, 41, 41, 0.13);
+}

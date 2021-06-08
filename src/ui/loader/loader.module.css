@@ -1,0 +1,39 @@
+.large {
+  width: 40px;
+  height: 40px;
+}
+.medium {
+  width: 24px;
+  height: 24px;
+}
+.small {
+  width: 16px;
+  height: 16px;
+}
+
+.wrapper_large {
+  width: 100%;
+  min-height: 160px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapper_medium {
+  width: 100%;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapper_small {
+  width: 100%;
+  min-height: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}

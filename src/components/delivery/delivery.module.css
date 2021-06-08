@@ -1,0 +1,15 @@
+.delivery {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 32px;
+  margin-bottom: 32px;
+}
+
+.input {
+  width: calc(100% - 79px);
+}
+
+.deliveryMethod {
+  margin-bottom: 20px;
+}

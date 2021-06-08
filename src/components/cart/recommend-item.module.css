@@ -1,0 +1,38 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.article:last-child {
+  margin-right: 0;
+}
+
+.img {
+  height: 160px;
+  width: 160px;
+}
+
+.price {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #292929;
+  margin: 8px auto 4px;
+}
+
+.text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #292929;
+  margin: 0 0 20px;
+  min-height: 100px;
+}
+
+.button {
+  width: 100%;
+  border-radius: 4px;
+}

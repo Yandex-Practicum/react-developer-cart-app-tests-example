@@ -1,0 +1,9 @@
+.app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 40px 40px 48px;
+}
+
+.recommend {
+  margin-top: 40px;
+}

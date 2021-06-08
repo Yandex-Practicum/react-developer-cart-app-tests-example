@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.address {
+  margin: 40px 0 20px;
+}
+
+.title {
+  margin-top: 20px;
+}

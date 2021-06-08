@@ -1,0 +1,25 @@
+.button {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  cursor: pointer;
+  outline: none;
+  background: #3C39EC;
+  border-radius: 4px;
+  border: none;
+  padding: 10px 24px;
+  box-sizing: border-box;
+}
+
+.input {
+  padding: 10px 16px;
+  border-radius: 0px 4px 4px 0px;
+}
+
+.secondary {
+  background: #FFFFFF;
+  border: 1px solid #3C39EC;
+  color: #3C39EC;
+}

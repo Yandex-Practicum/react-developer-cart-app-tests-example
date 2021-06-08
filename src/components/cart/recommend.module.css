@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.items {
+  overflow: hidden;
+  flex-wrap: nowrap;
+  display: flex;
+  overflow-x: scroll;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
